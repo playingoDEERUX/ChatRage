@@ -1,4 +1,4 @@
-# ChatRage: Preload your chat.
+# ChatRage: Preload your chat. Universal Tool for raging in chats (e.g group chats, ingame chats, etc.)
 
 
 Has been developed by me a very long time ago and is a very simple program that I wanted to get rid of...
